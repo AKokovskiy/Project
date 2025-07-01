@@ -1,0 +1,16 @@
+test 1
+rise 120
+borsh 57
+ramen 55
+olivie 190
+plov 150
+shi 88
+puree 113
+cutlet 227
+chocolate 503
+sushi 173
+pelmeni 250
+apple 52
+chebureki 341
+cesar 89
+burger 295
